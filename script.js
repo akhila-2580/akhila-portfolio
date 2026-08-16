@@ -3,10 +3,14 @@
 // ===============================
 
 const words = [
-  "Web Developer",
-  "Frontend Developer",
-  "Problem Solver",
-  "Tech Enthusiast"
+"Embedded Systems Enthusiast",
+"IoT Developer",
+"Problem Solver",
+"Web Developer",
+"Frontend Developer",
+"Electronics Enthusiast",
+"Tech Enthusiast",
+"Innovative Thinker"
 ];
 
 let wordIndex = 0;
